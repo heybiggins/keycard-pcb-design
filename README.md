@@ -6,6 +6,8 @@ https://docs.ergogen.xyz/
 
 https://www.kicad.org/
 
+https://jlcpcb.com/
+
 ## I followed these guides:
 
 https://flatfootfox.com/ergogen-introduction/
@@ -14,7 +16,7 @@ https://youtu.be/UKfeJrRIcxw (Ben Vallack)
 
 https://kbd.news/The-Japanese-duplex-matrix-1391.html
 
-## Write-up on the experience:
+## I wrote about the experience:
 
 https://heybiggins.com/keycard/
 
