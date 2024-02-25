@@ -22,6 +22,6 @@ https://heybiggins.com/keycard/
 
 <img width="500" alt="pcb_irl" src="https://github.com/heybiggins/keycard-pcb-design/assets/149963109/ee49b904-64b7-46ea-8827-27e50d3d8e57">
 
-<img width="500" alt="pcb_halfway" src="https://github.com/heybiggins/keycard-pcb-design/assets/149963109/c4995556-7114-4479-85b8-133d2ba6f66b">
+<img width="500" alt="pcb_soldered" src="https://github.com/heybiggins/keycard-pcb-design/assets/149963109/96edcd5b-3fe7-40e3-8c05-5c1ae8559117">
 
 <img width="500" alt="keyboard_finished" src="https://github.com/heybiggins/keycard-pcb-design/assets/149963109/ae4050be-4cfd-4f29-9066-be46b6cae2f9">
